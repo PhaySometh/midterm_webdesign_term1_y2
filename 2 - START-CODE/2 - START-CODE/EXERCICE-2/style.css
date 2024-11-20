@@ -1,0 +1,33 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #343a40;
+  line-height: 1;
+  display: flex;
+  justify-content: center;
+}
+table {
+  width: 800px;
+  border-spacing: 0px;
+}
+th, td {
+  text-align: start;
+  padding: 20px;
+  width: 200px;
+}
+.green {
+  color: white;
+  background-color: rgb(17, 98, 17);
+}
+.darkGray {
+  background-color: darkgray;
+}
+.lightGray {
+  background-color: lightgray;
+}
